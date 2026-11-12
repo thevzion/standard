@@ -1,9 +1,17 @@
 # The Standard
 
-**The standard for your source.**
+**What you want, as source.**
 
 What you want, why, and how you'll know, written as small objects that any agent can read, act
-on and keep up to date, every change with its reason.
+on and keep up to date, every change with its reason. A format, a vocabulary and a protocol.
+
+## Why
+
+Intelligence is the engine, compute the fuel, what you want is the source. Without a source, any
+agent runs, and writes generic. With one, the same intelligence carries more of what you want.
+
+Every change keeps its reason, so the yield is measured, not claimed. What proves stable can run
+without a model at all: intelligence for what's new, the rest compiles (hypothesis).
 
 Standard 0.1 · candidate, untested.
 
