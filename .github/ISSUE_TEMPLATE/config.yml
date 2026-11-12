@@ -1,0 +1,5 @@
+blank_issues_enabled: true
+contact_links:
+  - name: Change what TheVZion wants
+    url: https://github.com/thevzion/source/issues
+    about: TheVZion's goals, decisions, hypotheses and open questions live in its source.
