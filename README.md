@@ -1,6 +1,4 @@
-# The Standard
-
-**What you want, as source.**
+# What you want, as source
 
 What you want, why, and how you'll know, written as small objects that any agent can read, act
 on and keep up to date, every change with its reason. A format, a vocabulary and a protocol.
