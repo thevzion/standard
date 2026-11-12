@@ -1,4 +1,4 @@
-# The standard
+# The Standard
 
 **The standard for your source.**
 
