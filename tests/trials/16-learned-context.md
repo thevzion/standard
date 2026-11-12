@@ -2,7 +2,7 @@
 trial: 16
 status: not-run
 level: end-to-end
-tests: [objects/hypotheses/structure-fixes-verbose-agents.md, objects/hypotheses/structure-shrinks-the-context.md, objects/hypotheses/it-compounds.md, objects/hypotheses/you-stop-re-explaining.md]
+tests: [https://github.com/thevzion/source/blob/main/objects/hypotheses/structure-fixes-verbose-agents.md, https://github.com/thevzion/source/blob/main/objects/hypotheses/structure-shrinks-the-context.md, https://github.com/thevzion/source/blob/main/objects/hypotheses/it-compounds.md, https://github.com/thevzion/source/blob/main/objects/hypotheses/you-stop-re-explaining.md]
 ---
 
 # Trial 16: the learned context

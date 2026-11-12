@@ -30,4 +30,4 @@ From [measures](../../standard/measures.md): exposure.
 
 ## What could break
 
-The leak: an executable life, with clean data, is worse to lose ([access](../../standard/access.md)). Open: [privacy-boundary](../../objects/questions/privacy-boundary.md).
+The leak: an executable life, with clean data, is worse to lose ([access](../../standard/access.md)). Open: [privacy-boundary](https://github.com/thevzion/source/blob/main/objects/questions/privacy-boundary.md).

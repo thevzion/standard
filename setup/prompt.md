@@ -1,6 +1,6 @@
 # Setup prompt
 
-Version 2. Candidate, untested: no run has used this version yet. Its open points are in [prompt-v2](../objects/questions/prompt-v2.md), and [trial 7](../tests/trials/07-reduced-tree.md) will test it.
+Version 2. Candidate, untested: no run has used this version yet. Its open points are in [prompt-v2](https://github.com/thevzion/source/blob/main/objects/questions/prompt-v2.md), and [trial 7](../tests/trials/07-reduced-tree.md) will test it.
 
 Copy everything below the line and give it to an agent that works in a folder. The other ways to start are in [README.md](README.md).
 

@@ -2,7 +2,7 @@
 
 Standard 0.1 · candidate
 
-The third set of the [structure](structure.md): the events. Temporal, append-only. ([decision](../objects/decisions/the-commit-is-the-change.md))
+The third set of the [structure](structure.md): the events. Temporal, append-only. ([decision](https://github.com/thevzion/source/blob/main/objects/decisions/the-commit-is-the-change.md))
 
 ## The commit is the change
 
@@ -34,7 +34,7 @@ Every field of a change already exists in git, except two, which become trailers
 | the intent served (candidate) | the `Intent:` trailer | a relation to the Intents database |
 | what the agent read (candidate) | a git note, or a `Read:` trailer: the URIs and the version read | a "Read" relation to the Objects database |
 
-Open: [commit trailers](../objects/questions/commit-trailers.md), [the `Intent:` trailer](../objects/questions/intent-trailer.md), [where `read` lives](../objects/questions/where-read-lives.md).
+Open: [commit trailers](https://github.com/thevzion/source/blob/main/objects/questions/commit-trailers.md), [the `Intent:` trailer](https://github.com/thevzion/source/blob/main/objects/questions/intent-trailer.md), [where `read` lives](https://github.com/thevzion/source/blob/main/objects/questions/where-read-lives.md).
 
 ## Convention
 
@@ -62,7 +62,7 @@ Operations: `add`, `revise`, `remove`, `rename`, `split`, `merge`, `test`, `vali
 - **The inbox is the set of proposed changes**, like a pull request: what comes from elsewhere, what is large (a migration), and what engages other people. Nothing limits its size; its count and the age of its proposals are measured (waiting, in [measures](measures.md)).
 - **Proposals from elsewhere** (an issue, a message, a Notion row) stay in their adapter until the agent processes them: it turns them into a commit, or a branch if they are large.
 
-Where the line between accepted and proposed falls, beyond these three cases, is open ([question](../objects/questions/accepted-or-proposed.md)).
+Where the line between accepted and proposed falls, beyond these three cases, is open ([question](https://github.com/thevzion/source/blob/main/objects/questions/accepted-or-proposed.md)).
 
 ## A correction is a change that teaches
 

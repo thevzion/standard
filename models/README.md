@@ -11,7 +11,7 @@ type asks a question ([structure](../standard/structure.md)).
 | Property | What it means |
 |---|---|
 | **Not a template** | A template is copied, then drifts. A model is declared ("conforms to `organization@0.1`") and can evolve. A copy to duplicate (in Notion, for example) is called a template. |
-| **Declared** | A space declares its models in [`space.md`](../space.md), each with its version, next to the version of the standard. |
+| **Declared** | A space declares its models in [`space.md`](https://github.com/thevzion/source/blob/main/space.md), each with its version, next to the version of the standard. |
 | **Composes** | A space takes the models it needs. A model can include others, like a package depends on packages. |
 | **Serves alone** | Each model answers one family of questions and works without the others: a decision log without goals, tasks without a vision. |
 | **Named in full** | Always "the Organization model", "a Game model". Never "model" alone, which also means an AI model. |
@@ -40,7 +40,7 @@ answer; a trial is a series of questions asked to a test space ([tests](../tests
 
 The models that come with the standard, as a language's standard library comes with the language.
 Other models plug in the same way. The name is a candidate
-([standard-library-name](../objects/questions/standard-library-name.md)).
+([standard-library-name](https://github.com/thevzion/source/blob/main/objects/questions/standard-library-name.md)).
 
 | Model | Its question | Types |
 |---|---|---|
@@ -85,7 +85,7 @@ precious: the explicit makes contradictions detectable.
 
 | Rule | What it says |
 |---|---|
-| **A local type is an object** | `objects/types/supplier.md` holds its question, horizon and fields. It is versioned and kept like the rest; the structure keeps its three sets. Where local types live is open ([where-local-types-live](../objects/questions/where-local-types-live.md)). |
+| **A local type is an object** | `objects/types/supplier.md` holds its question, horizon and fields. It is versioned and kept like the rest; the structure keeps its three sets. Where local types live is open ([where-local-types-live](https://github.com/thevzion/source/blob/main/objects/questions/where-local-types-live.md)). |
 | **Restraint** | A local type must ask a question no installed type asks. Otherwise it is a field, a link or a view. Maximize reuse and clarity, not the number of objects. |
 | **Desire paths** | Let people walk, then pave the paths they made. Within a space, local types emerge; across spaces, the same local type often returns: it becomes a seed, then a model. The library grows from use, not from our guesses. |
 | **What is shared** | Only type definitions are shared, on agreement. Never objects. |
@@ -96,9 +96,9 @@ A migration is a change (`migrate`), proposed by the agent and accepted by the p
 wide: from `local:supplier` to `work@0.4:vendor`, twelve objects, and why.
 
 - History stays whole; the current state lives in the new model.
-- Upgrading an installed model's version takes the same path ([model-version-migration](../objects/questions/model-version-migration.md)).
+- Upgrading an installed model's version takes the same path ([model-version-migration](https://github.com/thevzion/source/blob/main/objects/questions/model-version-migration.md)).
 - A migration is not always one to one: it can split or merge.
-- It rewrites internal links in the same change. The old URI must stay resolvable ([uri-on-type-change](../objects/questions/uri-on-type-change.md)).
+- It rewrites internal links in the same change. The old URI must stay resolvable ([uri-on-type-change](https://github.com/thevzion/source/blob/main/objects/questions/uri-on-type-change.md)).
 
 ## When a type enters a model
 
@@ -119,7 +119,7 @@ that speaks not of what we want but of a thing made is another model (Game, for 
 | Refusals | What do we refuse? | already a field of strategy |
 
 No inheritance between types, to start: models include each other, objects link
-([type-inheritance](../objects/questions/type-inheritance.md)).
+([type-inheritance](https://github.com/thevzion/source/blob/main/objects/questions/type-inheritance.md)).
 
 ### Find what's still implicit
 
@@ -134,13 +134,13 @@ tell the library which questions are ambiguous and which models are missing
 
 | Item | The tension | Proposed reading | Open question |
 |---|---|---|---|
-| **People** | two senses | members of a space (who reads, proposes, decides; their keys) belong to the structure, in `space.md`; the people we know are `person` objects in Knowledge | [people-members-or-contacts](../objects/questions/people-members-or-contacts.md) |
-| **Issues** | not a type | what we noticed and have not filed yet. An idea is a `material`, a friction or bug is an observed `result`, a question is a `question`, a thing to do is a `task`. "To sort" becomes a view. | [issues-type-or-view](../objects/questions/issues-type-or-view.md) |
-| **Deliverable** | maybe a link | a project `delivers` an object of any model (a document, a publication, code). A spec is a document; it becomes a deliverable because a project delivers it. | [deliverable-type-or-link](../objects/questions/deliverable-type-or-link.md) |
-| **Resources** | two senses | files belong to Knowledge; means (money, time, attention) have no model yet. Candidate: a **Means** model, "What do we have, and what does it cost?", in the library or apart. | [means-model](../objects/questions/means-model.md) |
+| **People** | two senses | members of a space (who reads, proposes, decides; their keys) belong to the structure, in `space.md`; the people we know are `person` objects in Knowledge | [people-members-or-contacts](https://github.com/thevzion/source/blob/main/objects/questions/people-members-or-contacts.md) |
+| **Issues** | not a type | what we noticed and have not filed yet. An idea is a `material`, a friction or bug is an observed `result`, a question is a `question`, a thing to do is a `task`. "To sort" becomes a view. | [issues-type-or-view](https://github.com/thevzion/source/blob/main/objects/questions/issues-type-or-view.md) |
+| **Deliverable** | maybe a link | a project `delivers` an object of any model (a document, a publication, code). A spec is a document; it becomes a deliverable because a project delivers it. | [deliverable-type-or-link](https://github.com/thevzion/source/blob/main/objects/questions/deliverable-type-or-link.md) |
+| **Resources** | two senses | files belong to Knowledge; means (money, time, attention) have no model yet. Candidate: a **Means** model, "What do we have, and what does it cost?", in the library or apart. | [means-model](https://github.com/thevzion/source/blob/main/objects/questions/means-model.md) |
 
 ## Open questions on models
 
-- Where a model lives, and how a space references it: by URI and version, copied or read online ([where-a-model-lives](../objects/questions/where-a-model-lives.md)).
-- The format of a model, and of a seed ([model-and-seed-format](../objects/questions/model-and-seed-format.md)).
-- A model included twice, in different versions: which one wins ([model-included-twice](../objects/questions/model-included-twice.md)).
+- Where a model lives, and how a space references it: by URI and version, copied or read online ([where-a-model-lives](https://github.com/thevzion/source/blob/main/objects/questions/where-a-model-lives.md)).
+- The format of a model, and of a seed ([model-and-seed-format](https://github.com/thevzion/source/blob/main/objects/questions/model-and-seed-format.md)).
+- A model included twice, in different versions: which one wins ([model-included-twice](https://github.com/thevzion/source/blob/main/objects/questions/model-included-twice.md)).

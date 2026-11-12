@@ -2,7 +2,7 @@
 trial: 10
 status: not-run
 level: end-to-end
-tests: [objects/hypotheses/adds-no-work.md, objects/hypotheses/saying-it-clearly-costs-less-than-fixing-it.md, objects/hypotheses/fixing-an-explicit-mistake-costs-less-than-asking-first.md, objects/hypotheses/you-stop-babysitting-your-agent.md]
+tests: [https://github.com/thevzion/source/blob/main/objects/hypotheses/adds-no-work.md, https://github.com/thevzion/source/blob/main/objects/hypotheses/saying-it-clearly-costs-less-than-fixing-it.md, https://github.com/thevzion/source/blob/main/objects/hypotheses/fixing-an-explicit-mistake-costs-less-than-asking-first.md, https://github.com/thevzion/source/blob/main/objects/hypotheses/you-stop-babysitting-your-agent.md]
 ---
 
 # Trial 10: commit or ask
@@ -15,7 +15,7 @@ tests: [objects/hypotheses/adds-no-work.md, objects/hypotheses/saying-it-clearly
 
 ## Setting
 
-The same intents, two agents. One asks before writing. The other writes, marks what it inferred, and then the person corrects. The rule under test is the decision [commit rather than ask](../../objects/decisions/commit-rather-than-ask.md).
+The same intents, two agents. One asks before writing. The other writes, marks what it inferred, and then the person corrects. The rule under test is the decision [commit rather than ask](https://github.com/thevzion/source/blob/main/objects/decisions/commit-rather-than-ask.md).
 
 ## Fixed before the trial
 
@@ -31,4 +31,4 @@ From [measures](../../standard/measures.md): balance, upkeep, accuracy, gates; a
 
 ## What could break
 
-The balance: reviewing, correcting and upkeep still take time. That cost is accepted against the gains ([review cost accepted](../../objects/decisions/review-cost-accepted.md)), and the balance is measured: "adds no work" stays a hypothesis.
+The balance: reviewing, correcting and upkeep still take time. That cost is accepted against the gains ([review cost accepted](https://github.com/thevzion/source/blob/main/objects/decisions/review-cost-accepted.md)), and the balance is measured: "adds no work" stays a hypothesis.

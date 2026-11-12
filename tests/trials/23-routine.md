@@ -2,7 +2,7 @@
 trial: 23
 status: not-run
 level: end-to-end
-tests: [objects/hypotheses/it-keeps-moving-when-you-stop-talking.md]
+tests: [https://github.com/thevzion/source/blob/main/objects/hypotheses/it-keeps-moving-when-you-stop-talking.md]
 ---
 
 # Trial 23: a routine
@@ -15,7 +15,7 @@ tests: [objects/hypotheses/it-keeps-moving-when-you-stop-talking.md]
 
 ## Setting
 
-A test space, with one routine of the standard enabled every evening: file, refresh, take stock. Open: [routine-mandates](../../objects/questions/routine-mandates.md).
+A test space, with one routine of the standard enabled every evening: file, refresh, take stock. Open: [routine-mandates](https://github.com/thevzion/source/blob/main/objects/questions/routine-mandates.md).
 
 ## Fixed before the trial
 

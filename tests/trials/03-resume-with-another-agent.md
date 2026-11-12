@@ -2,7 +2,7 @@
 trial: 3
 status: not-run
 level: end-to-end
-tests: [objects/hypotheses/the-prompt-works-with-any-agent.md, objects/hypotheses/it-carries-over-to-people.md, objects/hypotheses/switch-models-keep-everything.md, objects/hypotheses/say-it-once-every-agent-knows-it.md, objects/hypotheses/you-stop-re-explaining.md]
+tests: [https://github.com/thevzion/source/blob/main/objects/hypotheses/the-prompt-works-with-any-agent.md, https://github.com/thevzion/source/blob/main/objects/hypotheses/it-carries-over-to-people.md, https://github.com/thevzion/source/blob/main/objects/hypotheses/switch-models-keep-everything.md, https://github.com/thevzion/source/blob/main/objects/hypotheses/say-it-once-every-agent-knows-it.md, https://github.com/thevzion/source/blob/main/objects/hypotheses/you-stop-re-explaining.md]
 ---
 
 # Trial 3: resume with another agent

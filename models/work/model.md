@@ -22,7 +22,7 @@ Review is a ritual, not a rule: the moments when the person reads what was writt
 schedule's `rituals` field. "Don't watch the agent work. Read what it wrote."
 
 A deliverable may become a link rather than a type: a project `delivers` an object of any model
-([deliverable-type-or-link](../../objects/questions/deliverable-type-or-link.md)).
+([deliverable-type-or-link](https://github.com/thevzion/source/blob/main/objects/questions/deliverable-type-or-link.md)).
 
 ## Links
 

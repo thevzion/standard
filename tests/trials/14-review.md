@@ -2,7 +2,7 @@
 trial: 14
 status: not-run
 level: end-to-end
-tests: [objects/hypotheses/adds-no-work.md, objects/hypotheses/you-review-only-what-was-inferred.md]
+tests: [https://github.com/thevzion/source/blob/main/objects/hypotheses/adds-no-work.md, https://github.com/thevzion/source/blob/main/objects/hypotheses/you-review-only-what-was-inferred.md]
 ---
 
 # Trial 14: review

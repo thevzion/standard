@@ -13,7 +13,7 @@ A dashboard shows the state, and lets you operate on it. It promises nothing and
 - **The same in Notion**: views and charts on the Objects and Changes databases. The same measures, in two adapters.
 - **Operating** from the dashboard writes a change at the source, with its author and its why, as with any adapter.
 
-Trial: [11](../tests/trials/11-dashboard.md). Open: [dashboard stack](../objects/questions/dashboard-stack.md).
+Trial: [11](../tests/trials/11-dashboard.md). Open: [dashboard stack](https://github.com/thevzion/source/blob/main/objects/questions/dashboard-stack.md).
 
 ## Canonical measures (candidate)
 
@@ -83,11 +83,11 @@ How to measure it, on a product (a document, an object, an answer):
 - **Who labels**: an agent that has the space, and cites its sources; a second agent without the space runs the swap test; the person checks a sample. A measure without a target: [trial 13](../tests/trials/13-genericity.md) says what the system does with it.
 - **With the [trace](trace.md)**, the label is born with the object: said if the claim draws on the intent, anchored on a space object, sourced on a Pointer. The swap test only covers what rests on nothing. The trace also separates two axes the label mixed: specificity (what holds only for this organization) and traceability (what goes back to something). A sourced claim can be generic, a fact true for everyone, without being invented.
 
-Open: [anchoring definition](../objects/questions/anchoring-definition.md), [sourced in anchoring](../objects/questions/sourced-in-anchoring.md).
+Open: [anchoring definition](https://github.com/thevzion/source/blob/main/objects/questions/anchoring-definition.md), [sourced in anchoring](https://github.com/thevzion/source/blob/main/objects/questions/sourced-in-anchoring.md).
 
 ## Balance and yield (candidate)
 
-Two ways to say whether the system is worth what it costs, both in human time, the scarce resource. Compute is counted separately, in money. ([decision](../objects/decisions/yield.md))
+Two ways to say whether the system is worth what it costs, both in human time, the scarce resource. Compute is counted separately, in money. ([decision](https://github.com/thevzion/source/blob/main/objects/decisions/yield.md))
 
 **Balance**, or net gain: what the person no longer does, minus what they do in addition.
 

@@ -27,7 +27,7 @@ Each one also says what it cannot do.
 
 ## The toolchain is optional
 
-A CLI for people and an MCP server for agents host the adapters. They add comfort, never a requirement ([frontier](README.md#the-frontier)). See the [toolchain project](../objects/projects/toolchain.md).
+A CLI for people and an MCP server for agents host the adapters. They add comfort, never a requirement ([frontier](README.md#the-frontier)). See the [toolchain project](https://github.com/thevzion/source/blob/main/objects/projects/toolchain.md).
 
 ## Notion, local-first
 

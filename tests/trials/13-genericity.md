@@ -2,7 +2,7 @@
 trial: 13
 status: not-run
 level: end-to-end
-tests: [objects/hypotheses/adds-no-work.md, objects/hypotheses/structure-fixes-verbose-agents.md, objects/hypotheses/your-context-makes-it-specific.md]
+tests: [https://github.com/thevzion/source/blob/main/objects/hypotheses/adds-no-work.md, https://github.com/thevzion/source/blob/main/objects/hypotheses/structure-fixes-verbose-agents.md, https://github.com/thevzion/source/blob/main/objects/hypotheses/your-context-makes-it-specific.md]
 ---
 
 # Trial 13: genericity

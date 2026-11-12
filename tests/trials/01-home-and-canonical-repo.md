@@ -15,7 +15,7 @@ tests: []
 ## Setting
 
 - A fictional home, with [the Home model](../../models/home/model.md), holding several organizations.
-- This repository as the real case ([space.md](../../space.md)).
+- This repository as the real case ([space.md](https://github.com/thevzion/source/blob/main/space.md)).
 
 ## Fixed before the trial
 

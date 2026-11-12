@@ -35,7 +35,7 @@ Leak paths, to observe:
 | **the adapters** | Notion, GitHub or a clone have their own access | the written agreement must cover them |
 | **the projections** | a site or a public export | takes only what is marked public |
 
-**The gates come first here.** The doctrine observes before constraining, except where a mistake cannot be corrected precisely or reaches someone else ([gates](doctrine.md#gates)). A leak is exactly that case. Exposure is measured ([measures](measures.md), [trial 19](../tests/trials/19-exposure.md)); the boundary is open ([question](../objects/questions/privacy-boundary.md)).
+**The gates come first here.** The doctrine observes before constraining, except where a mistake cannot be corrected precisely or reaches someone else ([gates](doctrine.md#gates)). A leak is exactly that case. Exposure is measured ([measures](measures.md), [trial 19](../tests/trials/19-exposure.md)); the boundary is open ([question](https://github.com/thevzion/source/blob/main/objects/questions/privacy-boundary.md)).
 
 ## Federation and identity
 
@@ -61,7 +61,7 @@ Connecting works like git remotes:
 | `org request` | asks for wider access |
 | `org verify` | checks signatures; key fingerprints live in `known_orgs`, like `known_hosts` in SSH |
 
-The command name `org` is open ([question](../objects/questions/command-name.md)). Reads across spaces are also open ([question](../objects/questions/cross-space-reads.md)).
+The command name `org` is open ([question](https://github.com/thevzion/source/blob/main/objects/questions/command-name.md)). Reads across spaces are also open ([question](https://github.com/thevzion/source/blob/main/objects/questions/cross-space-reads.md)).
 
 - **No blockchain.** What it offers that is useful here (an unforgeable history, signatures) is already in git and SSH. Its downsides would get in the way: everything is permanent and public, it costs, and its image contradicts "nothing to buy".
 - **The repository as notary.** What must be verifiable in Notion (a decision, a commitment), the toolchain projects into git with its fingerprint.

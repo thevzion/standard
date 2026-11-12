@@ -2,7 +2,7 @@
 trial: 24
 status: not-run
 level: end-to-end
-tests: [objects/hypotheses/anyone-can-start-with-seven-types.md, objects/hypotheses/work-can-train-the-person.md, objects/hypotheses/you-dont-need-to-know-how.md]
+tests: [https://github.com/thevzion/source/blob/main/objects/hypotheses/anyone-can-start-with-seven-types.md, https://github.com/thevzion/source/blob/main/objects/hypotheses/work-can-train-the-person.md, https://github.com/thevzion/source/blob/main/objects/hypotheses/you-dont-need-to-know-how.md]
 ---
 
 # Trial 24: elevation

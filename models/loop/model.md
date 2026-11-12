@@ -32,7 +32,7 @@ includes: []
 | `fit` | Match, Partial, Miss, Unknown. Silence is not a Match. A decision model proposes it, then the person. |
 
 The intent is the input trace; changes are the output trace. A commit may name the intent it
-serves (an `Intent:` trailer, candidate: [intent-trailer](../../objects/questions/intent-trailer.md)).
+serves (an `Intent:` trailer, candidate: [intent-trailer](https://github.com/thevzion/source/blob/main/objects/questions/intent-trailer.md)).
 An intent that contradicts an older one replaces it; it is not added next to it.
 
 ### The full loop
@@ -64,7 +64,7 @@ The turn leaves three returns, which feed the next intent:
 - Compared with the standard's earlier loop, three changes, to test: a Questions step, Decision in place of Publication, and three returns instead of Learning alone.
 
 Whether the full loop belongs to this model, to the Organization model, or partly to the structure
-is open ([who-owns-the-loop](../../objects/questions/who-owns-the-loop.md)).
+is open ([who-owns-the-loop](https://github.com/thevzion/source/blob/main/objects/questions/who-owns-the-loop.md)).
 
 ## Links
 

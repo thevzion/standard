@@ -2,7 +2,7 @@
 trial: 9
 status: not-run
 level: end-to-end
-tests: [objects/hypotheses/anyone-can-start-with-seven-types.md, objects/hypotheses/your-intent-is-the-source.md, objects/hypotheses/you-say-it-the-source-writes-itself.md]
+tests: [https://github.com/thevzion/source/blob/main/objects/hypotheses/anyone-can-start-with-seven-types.md, https://github.com/thevzion/source/blob/main/objects/hypotheses/your-intent-is-the-source.md, https://github.com/thevzion/source/blob/main/objects/hypotheses/you-say-it-the-source-writes-itself.md]
 ---
 
 # Trial 9: placement

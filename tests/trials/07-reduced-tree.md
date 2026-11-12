@@ -2,7 +2,7 @@
 trial: 7
 status: not-run
 level: end-to-end
-tests: [objects/hypotheses/the-prompt-works-with-any-agent.md]
+tests: [https://github.com/thevzion/source/blob/main/objects/hypotheses/the-prompt-works-with-any-agent.md]
 ---
 
 # Trial 7: the reduced tree
@@ -34,4 +34,4 @@ From [measures](../../standard/measures.md); and the [structure checks](../struc
 
 ## Before this trial
 
-Version 1 of the setup prompt was tried on 2026-11-11 with a fictional person. Agents from two providers wrote the same files. One provider's sandbox blocked git, and no rule said how to name a change that touches no object. Version 2 answers both: `changes.md` when git is blocked, and `space(<operation>)` for the setup files. Neither answer has run. Open: [prompt-v2](../../objects/questions/prompt-v2.md), [commit-trailers](../../objects/questions/commit-trailers.md).
+Version 1 of the setup prompt was tried on 2026-11-11 with a fictional person. Agents from two providers wrote the same files. One provider's sandbox blocked git, and no rule said how to name a change that touches no object. Version 2 answers both: `changes.md` when git is blocked, and `space(<operation>)` for the setup files. Neither answer has run. Open: [prompt-v2](https://github.com/thevzion/source/blob/main/objects/questions/prompt-v2.md), [commit-trailers](https://github.com/thevzion/source/blob/main/objects/questions/commit-trailers.md).

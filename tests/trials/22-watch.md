@@ -2,7 +2,7 @@
 trial: 22
 status: not-run
 level: watch
-tests: [objects/hypotheses/it-keeps-moving-when-you-stop-talking.md]
+tests: [https://github.com/thevzion/source/blob/main/objects/hypotheses/it-keeps-moving-when-you-stop-talking.md]
 ---
 
 # Trial 22: the watch
@@ -20,7 +20,7 @@ A test space with goals and three weeks of simulated work, with a drift placed o
 
 ## Fixed before the trial
 
-Not fixed yet. They are written here before the first run, and not changed after. Open: [watch-settings](../../objects/questions/watch-settings.md).
+Not fixed yet. They are written here before the first run, and not changed after. Open: [watch-settings](https://github.com/thevzion/source/blob/main/objects/questions/watch-settings.md).
 
 ## Expected answer
 

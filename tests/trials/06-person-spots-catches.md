@@ -2,7 +2,7 @@
 trial: 6
 status: not-run
 level: end-to-end
-tests: [objects/hypotheses/work-can-train-the-person.md]
+tests: [https://github.com/thevzion/source/blob/main/objects/hypotheses/work-can-train-the-person.md]
 ---
 
 # Trial 6: the person spots the catches

@@ -15,7 +15,7 @@ tests: []
 
 ## Setting
 
-A test repository, the dashboard of the toolchain ([toolchain](../../objects/projects/toolchain.md)), and a Notion test space. Open: [dashboard-stack](../../objects/questions/dashboard-stack.md).
+A test repository, the dashboard of the toolchain ([toolchain](https://github.com/thevzion/source/blob/main/objects/projects/toolchain.md)), and a Notion test space. Open: [dashboard-stack](https://github.com/thevzion/source/blob/main/objects/questions/dashboard-stack.md).
 
 ## Fixed before the trial
 

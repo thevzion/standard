@@ -2,7 +2,7 @@
 trial: 2
 status: not-run
 level: end-to-end
-tests: [objects/hypotheses/it-compounds.md, objects/hypotheses/your-intent-is-the-source.md]
+tests: [https://github.com/thevzion/source/blob/main/objects/hypotheses/it-compounds.md, https://github.com/thevzion/source/blob/main/objects/hypotheses/your-intent-is-the-source.md]
 ---
 
 # Trial 2: two turns, and reuse

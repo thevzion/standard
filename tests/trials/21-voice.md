@@ -2,7 +2,7 @@
 trial: 21
 status: not-run
 level: end-to-end
-tests: [objects/hypotheses/you-say-it-the-source-writes-itself.md]
+tests: [https://github.com/thevzion/source/blob/main/objects/hypotheses/you-say-it-the-source-writes-itself.md]
 ---
 
 # Trial 21: voice

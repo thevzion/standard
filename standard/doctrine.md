@@ -31,7 +31,7 @@ Make it explicit.
 
 ## The invariant
 
-"Intelligence can. Only people want, and answer for it." ([decision](../objects/decisions/the-invariant.md))
+"Intelligence can. Only people want, and answer for it." ([decision](https://github.com/thevzion/source/blob/main/objects/decisions/the-invariant.md))
 
 Judgment, discernment, the choice of means, even taste: an intelligence can have them. No one, agent or human, can decide for someone what they want, and the person answers for it. A wording that says humans keep judgment loses the invariant: they keep wanting.
 
@@ -46,11 +46,11 @@ If an agent sends a wrong invoice, the person answers for it to their client. Wa
 
 ## Gates
 
-A request for approval is justified only where a mistake cannot be corrected precisely, or reaches someone else: a publication, a message, a commitment, a spending. Anywhere else, a gate is a smell. ([decision](../objects/decisions/commit-rather-than-ask.md), [trial 10](../tests/trials/10-commit-or-ask.md))
+A request for approval is justified only where a mistake cannot be corrected precisely, or reaches someone else: a publication, a message, a commitment, a spending. Anywhere else, a gate is a smell. ([decision](https://github.com/thevzion/source/blob/main/objects/decisions/commit-rather-than-ask.md), [trial 10](../tests/trials/10-commit-or-ask.md))
 
 ## Observe before constraining
 
-The system states its real state, and it is measured. No limit and no promise about what it will become is written into it. A constraint comes only later, if a measure justifies it. Checks signal smells; they do not block. ([decision](../objects/decisions/observe-before-constraining.md), [measures](measures.md))
+The system states its real state, and it is measured. No limit and no promise about what it will become is written into it. A constraint comes only later, if a measure justifies it. Checks signal smells; they do not block. ([decision](https://github.com/thevzion/source/blob/main/objects/decisions/observe-before-constraining.md), [measures](measures.md))
 
 ## Why letting go holds
 
@@ -64,4 +64,4 @@ Without these three, letting the agent commit would be risky.
 
 ## AGENTS.md
 
-Each `AGENTS.md` is a projection of the doctrine and of the space's mandates: the same base everywhere, and what is specific to each space on top. This space's: [AGENTS.md](../AGENTS.md).
+Each `AGENTS.md` is a projection of the doctrine and of the space's mandates: the same base everywhere, and what is specific to each space on top. This space's: [AGENTS.md](https://github.com/thevzion/source/blob/main/AGENTS.md).

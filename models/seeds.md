@@ -19,9 +19,9 @@ organization, and an organization can exist without a game.
 "Core loop", so as not to clash with the [Loop](loop/model.md) model. The questions above are
 proposed, not settled.
 
-- **Game includes Loop** (candidate): a playtest is an experiment; its results are `result` objects of the Loop model. A model included twice, by Organization and by Game, is installed once ([model-included-twice](../objects/questions/model-included-twice.md)).
+- **Game includes Loop** (candidate): a playtest is an experiment; its results are `result` objects of the Loop model. A model included twice, by Organization and by Game, is installed once ([model-included-twice](https://github.com/thevzion/source/blob/main/objects/questions/model-included-twice.md)).
 - **Links are the glue**: in a game's space, a mechanic serves a goal (Goals), a playtest produces a result (Loop), and a decision (Loop) revises the mechanic.
-- **No inheritance**: a playtest does not extend a result; they link ([type-inheritance](../objects/questions/type-inheritance.md)).
+- **No inheritance**: a playtest does not extend a result; they link ([type-inheritance](https://github.com/thevzion/source/blob/main/objects/questions/type-inheritance.md)).
 - **A Studio model** could include Organization and Game, if a domain always wants the pair.
 
 ## Seeds
@@ -48,4 +48,4 @@ then a model ([local types](README.md#local-types-and-links)).
 Open an issue with the [type or model template](../.github/ISSUE_TEMPLATE/propose-a-type-or-model.md).
 Give the model's question, its types each with a question and a horizon, and a space where it
 serves. The entry rule applies ([models](README.md#when-a-type-enters-a-model)). The format of a
-seed is open ([model-and-seed-format](../objects/questions/model-and-seed-format.md)).
+seed is open ([model-and-seed-format](https://github.com/thevzion/source/blob/main/objects/questions/model-and-seed-format.md)).

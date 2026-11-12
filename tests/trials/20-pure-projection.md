@@ -2,7 +2,7 @@
 trial: 20
 status: not-run
 level: end-to-end
-tests: [objects/hypotheses/ask-and-it-answers-from-your-sources.md]
+tests: [https://github.com/thevzion/source/blob/main/objects/hypotheses/ask-and-it-answers-from-your-sources.md]
 ---
 
 # Trial 20: pure projection

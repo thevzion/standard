@@ -60,8 +60,8 @@ Everything else is an instance of one of them: Organization and Game are models,
 
 - **Compose rather than own.** A model includes others, as a package depends on packages, and a space declares the ones it takes. If a domain always wants the pair, a Studio model can include Organization and Game.
 - **Links are the glue.** In a game's space, a mechanic (Game) serves a goal (Goals), a playtest (Game) produces a result (Loop), and a decision (Loop) revises the mechanic.
-- **Game includes Loop** (candidate): a playtest is an experiment, and its results are Loop results. A model included twice, by Organization and by Game, is installed once ([question](../objects/questions/model-included-twice.md)).
-- **No inheritance between types**, to start. A type does not extend another; models include each other, and objects link to each other. A measure may later show it is needed ([question](../objects/questions/type-inheritance.md)).
+- **Game includes Loop** (candidate): a playtest is an experiment, and its results are Loop results. A model included twice, by Organization and by Game, is installed once ([question](https://github.com/thevzion/source/blob/main/objects/questions/model-included-twice.md)).
+- **No inheritance between types**, to start. A type does not extend another; models include each other, and objects link to each other. A measure may later show it is needed ([question](https://github.com/thevzion/source/blob/main/objects/questions/type-inheritance.md)).
 
 ## Local types and local links
 
@@ -77,9 +77,9 @@ Placement order:
 - **A local type is an object**: `objects/types/supplier.md` carries its question, horizon and fields, versioned like the rest.
 - **Restraint**: a local type must ask a question no installed type asks. Otherwise it is a field, a link or a view. The aim is reuse and clarity, not the number of objects.
 - **Desire paths**: let people walk, then pave the paths they made. Local types emerge within a space; the same local type often returns across spaces: it becomes a seed, then a model. Only type definitions are shared, on agreement, never objects.
-- **Migrations**: a large change (`migrate`), proposed by the agent and accepted by the person, for example from `local:supplier` to `work@0.2:vendor`, twelve objects, and the why. History stays whole. Upgrading an installed model follows the same path. A migration can split or merge, and rewrites internal links in the same change. The old URI must stay resolvable ([question](../objects/questions/uri-on-type-change.md)).
+- **Migrations**: a large change (`migrate`), proposed by the agent and accepted by the person, for example from `local:supplier` to `work@0.2:vendor`, twelve objects, and the why. History stays whole. Upgrading an installed model follows the same path. A migration can split or merge, and rewrites internal links in the same change. The old URI must stay resolvable ([question](https://github.com/thevzion/source/blob/main/objects/questions/uri-on-type-change.md)).
 
-Detail on models, seeds and local types: [models](../models/README.md), [seeds](../models/seeds.md), [where local types live](../objects/questions/where-local-types-live.md).
+Detail on models, seeds and local types: [models](../models/README.md), [seeds](../models/seeds.md), [where local types live](https://github.com/thevzion/source/blob/main/objects/questions/where-local-types-live.md).
 
 ## Layout: one object, one file, one page
 
@@ -161,7 +161,7 @@ An adapter may add its sync identifiers.
 
 ### Organization of one
 
-An organization of one is an organization whose intent is that of a single human. The term stays in English, like "organization". ([decision](../objects/decisions/organization-of-one.md))
+An organization of one is an organization whose intent is that of a single human. The term stays in English, like "organization". ([decision](https://github.com/thevzion/source/blob/main/objects/decisions/organization-of-one.md))
 
 - **"One" counts those who want, not those who work.** An organization of one is not alone: agents act in it as much as needed, but one human wants and answers for it. The [invariant](doctrine.md#the-invariant) defines it.
 - **"Human" rather than "person"**: a company is also a person, in law. "Human" removes the ambiguity.

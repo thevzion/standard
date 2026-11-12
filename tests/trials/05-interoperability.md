@@ -2,7 +2,7 @@
 trial: 5
 status: not-run
 level: end-to-end
-tests: [objects/hypotheses/it-carries-over-to-people.md]
+tests: [https://github.com/thevzion/source/blob/main/objects/hypotheses/it-carries-over-to-people.md]
 ---
 
 # Trial 5: interoperability

@@ -2,7 +2,7 @@
 trial: 17
 status: not-run
 level: end-to-end
-tests: [objects/hypotheses/every-object-knows-where-it-came-from.md]
+tests: [https://github.com/thevzion/source/blob/main/objects/hypotheses/every-object-knows-where-it-came-from.md]
 ---
 
 # Trial 17: projection to PROV

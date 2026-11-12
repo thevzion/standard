@@ -49,7 +49,7 @@ Seven questions, from four models, are enough to start.
 
 | Thing | What it is |
 |---|---|
-| the space | described by [`space.md`](../../space.md) |
+| the space | described by [`space.md`](https://github.com/thevzion/source/blob/main/space.md) |
 | a site | a link to another space |
 | the inbox | a status of changes: the proposed ones |
 | the log | the set of changes ([changes](../../standard/changes.md)) |

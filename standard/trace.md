@@ -39,7 +39,7 @@ The Change gains one relation, and the Link one kind.
 | git | a note attached to the commit (`git notes`), which does not change the commit, or a `Read:` trailer |
 | Notion | a "Read" relation from the Changes database to the Objects database |
 
-Open: [where `read` lives](../objects/questions/where-read-lives.md), [the unit of `draws on`](../objects/questions/draws-on-unit.md).
+Open: [where `read` lives](https://github.com/thevzion/source/blob/main/objects/questions/where-read-lives.md), [the unit of `draws on`](https://github.com/thevzion/source/blob/main/objects/questions/draws-on-unit.md).
 
 ## What it closes
 
@@ -56,7 +56,7 @@ The semantic web failed because humans had to write the links. Here, intelligenc
 
 ## Beyond the organization
 
-The standard (levels 0 and 1) has no domain: Organization is the first model, not the foundation. The trace is at level 1. It holds for anything written with an agent: a document, code, a web page, a game. It could become a standard beyond the organization, implemented elsewhere, as a tag, even for websites ([question](../objects/questions/trace-beyond-organization.md)).
+The standard (levels 0 and 1) has no domain: Organization is the first model, not the foundation. The trace is at level 1. It holds for anything written with an agent: a document, code, a web page, a game. It could become a standard beyond the organization, implemented elsewhere, as a tag, even for websites ([question](https://github.com/thevzion/source/blob/main/objects/questions/trace-beyond-organization.md)).
 
 ### What already exists
 

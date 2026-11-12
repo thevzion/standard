@@ -2,7 +2,7 @@
 
 Status: candidate, untested.
 
-These checks run on any space, whatever models it declares. Each one is a question with its expected answer. An unexpected answer is a smell, signaled with where it was found. A check never blocks a change ([observe before constraining](../objects/decisions/observe-before-constraining.md)).
+These checks run on any space, whatever models it declares. Each one is a question with its expected answer. An unexpected answer is a smell, signaled with where it was found. A check never blocks a change ([observe before constraining](https://github.com/thevzion/source/blob/main/objects/decisions/observe-before-constraining.md)).
 
 Who answers:
 
@@ -59,7 +59,7 @@ Known operations: `add`, `revise`, `remove`, `rename`, `split`, `merge`, `test`,
 | `one-source` | Does each type have one Source, every other place being a Projection, a Pointer or an Inbox? | yes | computation, on `space.md` |
 | `reaches-others` | Does anything that reaches others (a publication, a message, a commitment, an expense) rest on an object still marked `inferred`? | no | computation along `serves` and `draws-on`; a decision model when it is unclear whether something reaches others |
 | `access-match` | Does the written access agreement (who reads, proposes, decides, in `space.md` and the mandates) match the access the tool grants (repository rights, page sharing)? | yes | computation, through each adapter |
-| `projection-by-hand` | Was any projection edited by hand, that is, changed by a change that neither touches its sources nor regenerates it? | no | computation, on the changes. How a regeneration is marked is open: [projection-definition](../objects/questions/projection-definition.md) |
+| `projection-by-hand` | Was any projection edited by hand, that is, changed by a change that neither touches its sources nor regenerates it? | no | computation, on the changes. How a regeneration is marked is open: [projection-definition](https://github.com/thevzion/source/blob/main/objects/questions/projection-definition.md) |
 | `local-committed` | Is anything under `.local/` committed? | no | computation |
 
 ## What a run returns

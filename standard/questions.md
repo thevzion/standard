@@ -24,7 +24,7 @@ The agent you talk to can write objects itself. When a request is clear and call
 - **Promoted, if decided**: part of a projection can become an object, marked `inferred`, with what it draws on.
 - **For an audience**: a view for a partner reads only what is shared with them. This is also an exposure rule ([access](access.md)).
 
-Open: [what a projection is](../objects/questions/projection-definition.md). Trial: [20](../tests/trials/20-pure-projection.md).
+Open: [what a projection is](https://github.com/thevzion/source/blob/main/objects/questions/projection-definition.md). Trial: [20](../tests/trials/20-pure-projection.md).
 
 **The final loop.** Objects are made for precision and for machines; projections, for people. The person reads a projection, says what they want, it becomes objects, and the projections that drew on them become stale. Views recompose a narrative from small objects.
 
@@ -61,11 +61,11 @@ Intent → Questions → Objects → Intelligence → Deliverable → Check → 
 | Result | what happened, dated |
 | Returns | what the turn leaves |
 
-- **To compound** is when a turn's returns make the next one cheaper or better: fewer follow-ups, less human time, more reuse. It is measurable, and it is a hypothesis ([it compounds](../objects/hypotheses/it-compounds.md), [trial 02](../tests/trials/02-two-turns-reuse.md)).
+- **To compound** is when a turn's returns make the next one cheaper or better: fewer follow-ups, less human time, more reuse. It is measurable, and it is a hypothesis ([it compounds](https://github.com/thevzion/source/blob/main/objects/hypotheses/it-compounds.md), [trial 02](../tests/trials/02-two-turns-reuse.md)).
 - **The loop closes on its input** (candidate): each change keeps what the agent read, and each object what it draws on. What one turn drew on becomes the next turn's context ([trace](trace.md)).
 - **The human loop**: want, say, (do), see, choose, learn. Only the first cannot be delegated: wanting, and answering for it. Saying, seeing, choosing and learning are shared: intelligence does them too (it discerns, chooses within its mandate, learns from corrections), and the person does them when they want. "Intelligence can. Only people want, and answer for it."
 
-Open: [who owns the loop](../objects/questions/who-owns-the-loop.md).
+Open: [who owns the loop](https://github.com/thevzion/source/blob/main/objects/questions/who-owns-the-loop.md).
 
 ### The loop in one view (candidate)
 
@@ -116,7 +116,7 @@ What stays true:
 
 Prior art: scheduled jobs (cron), controllers that reconcile a wanted state (Kubernetes), continuous integration, the scheduled agents of current tools. What is specific here: the routine starts from a lasting intent written in the source, and acts under a written mandate, with a trace.
 
-Open: [routine mandates](../objects/questions/routine-mandates.md), [watch settings](../objects/questions/watch-settings.md). Trials: [22](../tests/trials/22-watch.md), [23](../tests/trials/23-routine.md).
+Open: [routine mandates](https://github.com/thevzion/source/blob/main/objects/questions/routine-mandates.md), [watch settings](https://github.com/thevzion/source/blob/main/objects/questions/watch-settings.md). Trials: [22](../tests/trials/22-watch.md), [23](../tests/trials/23-routine.md).
 
 ## Intelligence at several sizes (candidate)
 
@@ -141,7 +141,7 @@ Two kinds of AI model, named by role, never by product:
 
 What stays true:
 - **no AI model decides in the person's place**: a decision model answers closed questions about objects, like a check; what the person wants stays theirs;
-- **the probability is a signal**: below a threshold, the task goes to a writing model, then to the person; the threshold is set from measures, not in advance ([question](../objects/questions/decision-model-threshold.md));
+- **the probability is a signal**: below a threshold, the task goes to a writing model, then to the person; the threshold is set from measures, not in advance ([question](https://github.com/thevzion/source/blob/main/objects/questions/decision-model-threshold.md));
 - **each AI model is an adapter**: the space declares those it uses, and the standard names none ([adapters](adapters.md)).
 
 **Routing, learned from the trace.** The trace already says who wrote each change (`Co-Authored-By` names the AI model). With the measures (accuracy, cost, time) per AI model and per task, one sees which size is enough for what, and routing follows, like learned context. AI model cascades already exist (FrugalGPT, 2023); what is specific here is atomic, typed tasks, and a trace that measures each choice.

@@ -5,7 +5,7 @@ Three doors, one standard. Each ends in the same thing: a space, written as type
 | Door | When | What to do |
 |---|---|---|
 | A folder, with an agent | you work with an agent that can read and write files | copy [prompt.md](prompt.md) and give it to the agent |
-| Notion | you live in Notion | duplicate the template: not public yet ([public-template-and-counting](../objects/questions/public-template-and-counting.md)) |
+| Notion | you live in Notion | duplicate the template: not public yet ([public-template-and-counting](https://github.com/thevzion/source/blob/main/objects/questions/public-template-and-counting.md)) |
 | Just talk | you want to talk it through first | give any chat agent the instruction below, and say you just want to talk. It asks the questions of the seven starting types, one at a time, keeps your words, and gives you the result as one file. |
 
 ## The one instruction

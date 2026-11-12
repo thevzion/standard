@@ -27,7 +27,7 @@ includes: []
 ### A mandate per routine
 
 A routine acts under a mandate that says three things (where it lives is open:
-[routine-mandates](../../objects/questions/routine-mandates.md)):
+[routine-mandates](https://github.com/thevzion/source/blob/main/objects/questions/routine-mandates.md)):
 
 | Part | Example |
 |---|---|

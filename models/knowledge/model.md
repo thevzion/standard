@@ -23,9 +23,9 @@ includes: []
 Horizons are not set yet for these types, though the entry rule asks for one
 ([models](../README.md#when-a-type-enters-a-model)).
 
-- A `person` is a contact, not a member. Members of a space (who reads, proposes, decides) belong to the structure, in `space.md` ([people-members-or-contacts](../../objects/questions/people-members-or-contacts.md)).
-- An idea noticed in passing is a `material`; there is no Issues type ([issues-type-or-view](../../objects/questions/issues-type-or-view.md)).
-- Resources in the sense of files belong here; means (money, time, attention) do not ([means-model](../../objects/questions/means-model.md)).
+- A `person` is a contact, not a member. Members of a space (who reads, proposes, decides) belong to the structure, in `space.md` ([people-members-or-contacts](https://github.com/thevzion/source/blob/main/objects/questions/people-members-or-contacts.md)).
+- An idea noticed in passing is a `material`; there is no Issues type ([issues-type-or-view](https://github.com/thevzion/source/blob/main/objects/questions/issues-type-or-view.md)).
+- Resources in the sense of files belong here; means (money, time, attention) do not ([means-model](https://github.com/thevzion/source/blob/main/objects/questions/means-model.md)).
 
 ## Links
 

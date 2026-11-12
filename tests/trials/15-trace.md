@@ -2,7 +2,7 @@
 trial: 15
 status: not-run
 level: end-to-end
-tests: [objects/hypotheses/structure-shrinks-the-context.md, objects/hypotheses/every-object-knows-where-it-came-from.md]
+tests: [https://github.com/thevzion/source/blob/main/objects/hypotheses/structure-shrinks-the-context.md, https://github.com/thevzion/source/blob/main/objects/hypotheses/every-object-knows-where-it-came-from.md]
 ---
 
 # Trial 15: the trace
@@ -42,4 +42,4 @@ From [measures](../../standard/measures.md): use, context, stale.
 - Declared draws-on: an AI model can cite a source it read that does not support what it claims. The gap between `read` and `draws-on` only catches sources never read.
 - Read capture: where the adapter cannot see the agent's tool calls, `read` is missing (see also [trial 4](04-notion-adapter.md)).
 
-Open: [where-read-lives](../../objects/questions/where-read-lives.md), [draws-on-unit](../../objects/questions/draws-on-unit.md).
+Open: [where-read-lives](https://github.com/thevzion/source/blob/main/objects/questions/where-read-lives.md), [draws-on-unit](https://github.com/thevzion/source/blob/main/objects/questions/draws-on-unit.md).

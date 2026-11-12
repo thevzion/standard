@@ -2,7 +2,7 @@
 trial: 0
 status: not-run
 level: end-to-end
-tests: [objects/hypotheses/your-intent-is-the-source.md]
+tests: [https://github.com/thevzion/source/blob/main/objects/hypotheses/your-intent-is-the-source.md]
 ---
 
 # Trial 0: the first run
