@@ -35,7 +35,7 @@ For placement, the expected answer of [trial 9](09-placement.md). For anchoring,
 
 ## Measures
 
-From [measures](../../standard/measures.md): placement, anchoring, genericity (swap test), leverage, left to review, use, context, reuse.
+Placement, against the criteria of [trial 9](09-placement.md). From [measures](../../standard/measures.md): anchoring, genericity (swap test), leverage, left to review, use, context, reuse.
 
 ## What could break
 
