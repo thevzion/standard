@@ -8,7 +8,7 @@ Copy everything below the line and give it to an agent that works in a folder. T
 
 Set up my space with the TheVZion standard, version 0.1, and the Organization model, version 0.1.
 
-A space is what I want, written as small typed objects that people and agents can read and act on, where every change is kept with its reason. The standard is in `standard/` and the models are in `models/` of TheVZion's repository, linked from https://thevzion.com. Where this text and the standard differ, the standard wins.
+A space is what I want, written as small typed objects that people and agents can read and act on, where every change is kept with its reason. The standard is in `standard/` and the models are in `models/` at https://github.com/thevzion/standard. Where this text and the standard differ, the standard wins.
 
 ## How you behave
 

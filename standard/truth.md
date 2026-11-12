@@ -21,7 +21,8 @@ Each place plays one role for each type of object.
 
 | Place | Role |
 |---|---|
-| this repository: the standard, the models and the TheVZion space | Source |
+| [thevzion/source](https://github.com/thevzion/source): TheVZion's space | Source |
+| [thevzion/standard](https://github.com/thevzion/standard), this repository: the standard and the models | Source |
 | the collective's workspace, for operations (members only) | Source |
 | thevzion.com, `llms.txt`, `structure.json`, the public Notion template | Projections |
 | `objects/sites/`, the pointer files | Pointers |

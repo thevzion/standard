@@ -20,7 +20,7 @@ The first trial, proposed. At a small scale, it exercises placement ([trial 9](0
 ## Setting
 
 - A test space with the Organization model ([organization](../../models/organization/model.md)).
-- The intents: the real messages that produced the architecture in this repository, about fifteen, used with their author's consent. The messages themselves are not in this repository.
+- The intents: the real messages that produced the architecture of the standard and of TheVZion's source, about fifteen, used with their author's consent. The messages themselves are in neither repository.
 - Two turns.
 - Read capture on: the agent's adapter records what it reads.
 - Those messages already produced a long document, written without the standard. It is the long-document condition of [trial 14](14-review.md), on real data.

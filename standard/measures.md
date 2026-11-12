@@ -60,7 +60,7 @@ From the models:
 
 **Between spaces**, on agreement only: the emergence of local types and corrections by type, aggregated, tell the standard library which questions are ambiguous and which models are missing.
 
-The hypotheses of this space are read against their measures ([tests](../tests/README.md)).
+[TheVZion's hypotheses](https://github.com/thevzion/source/tree/main/objects/hypotheses) are read against their measures ([tests](../tests/README.md)).
 
 ## Anchoring
 

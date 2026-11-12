@@ -64,4 +64,4 @@ Without these three, letting the agent commit would be risky.
 
 ## AGENTS.md
 
-Each `AGENTS.md` is a projection of the doctrine and of the space's mandates: the same base everywhere, and what is specific to each space on top. This space's: [AGENTS.md](https://github.com/thevzion/source/blob/main/AGENTS.md).
+Each `AGENTS.md` is a projection of the doctrine and of the space's mandates: the same base everywhere, and what is specific to each space on top. TheVZion's: [AGENTS.md](https://github.com/thevzion/source/blob/main/AGENTS.md).

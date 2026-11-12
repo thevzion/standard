@@ -10,12 +10,12 @@ tests: []
 ## Questions
 
 1. Can a fictional home hold several organizations, each as a child space in `spaces/` or as a site in `objects/sites/`, and stay readable by an agent?
-2. Does TheVZion's canonical repository, this one, follow the structure as a real case? What do the [structure checks](../structure.md) say about it?
+2. Does TheVZion's source, its canonical repository, follow the structure as a real case? What do the [structure checks](../structure.md) say about it?
 
 ## Setting
 
 - A fictional home, with [the Home model](../../models/home/model.md), holding several organizations.
-- This repository as the real case ([space.md](https://github.com/thevzion/source/blob/main/space.md)).
+- TheVZion's source as the real case ([thevzion/source](https://github.com/thevzion/source), its [space.md](https://github.com/thevzion/source/blob/main/space.md)).
 
 ## Fixed before the trial
 
