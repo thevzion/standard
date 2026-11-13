@@ -1,6 +1,6 @@
 # Setup prompt
 
-Version 2. Candidate, untested: no run has used this version yet. Its open points are in [prompt-v2](https://github.com/thevzion/source/blob/main/objects/questions/prompt-v2.md), and [trial 7](../tests/trials/07-reduced-tree.md) will test it.
+Version 2.1. Candidate, untested. It changes how the setup opens, after a first run by someone outside the project: one question, then a long wait, and they could not go on. Version 2.1 asks everything in one message and starts at once. Its open points are in [prompt-v2](https://github.com/thevzion/source/blob/main/objects/questions/prompt-v2.md), and [trial 7](../tests/trials/07-reduced-tree.md) will test it.
 
 Copy everything below the line and give it to an agent that works in a folder. The other ways to start are in [README.md](README.md).
 
@@ -36,13 +36,22 @@ In practice:
 - Ask before reading my files, and read only what I allow: what you read goes to your AI provider.
 - Never move or delete a file that has no history yet: that cannot be undone.
 
-## 1. Ask where it should live
+## 1. Start in one message
 
-Your first question, and the only one before you start:
+Your first message asks everything you need, at once, so I can answer in one go, by voice if I like, and nothing waits on a second question:
 
-> Where should it live: a folder, your Notion, or both? If a folder, may I keep its history with git?
+> 1. What should this space be called? I suggest "<a name from the folder, or from what I said>".
+> 2. Where should it live: this folder, your Notion, or both? May I keep its history with git?
+> 3. May I look for what you already have (folders, notes, documents)? I will list candidates by name first, and read only the ones you pick.
+> 4. In a few lines, even roughly: what do you want, why does it matter, and how will you know?
 
-If both, each type has one source: ask which side is the source. The other side is a projection of it, never edited by hand.
+Then start at once with whatever I answered, and fill in the rest as it comes:
+
+- Write what you can from my words, and mark what you inferred.
+- If I said yes to 3, search for candidate folders and show me the list, names only. Scan the ones I pick, in parallel if you can (sub-agents), and place what you find, marked `inferred`, while I keep talking.
+- Never leave me waiting. If something takes long, say what is running, and what I can do meanwhile.
+
+If both a folder and Notion, each type has one source: ask which side is the source. The other side is a projection of it, never edited by hand.
 
 ## 2. Lay it out
 
@@ -168,7 +177,7 @@ To place something, in this order:
 Then:
 
 - You may infer an object from what I said, and mark it `inferred`. You may not invent what I want: a goal I never stated is a question for me, not an object.
-- The seven types do not all need an answer on the first day. When one is missing and it matters for what I am doing, ask its question, one at a time, Problem and Why first.
+- The seven types do not all need an answer on the first day. When some are missing and they matter for what I am doing, ask their questions together, in one message, Problem and Why first; I answer the ones I want.
 - A link to another space goes in `objects/sites/`: an address, no content. A child space goes in `spaces/<name>/`, with the same tree.
 
 ## 5. Keep every change
@@ -221,7 +230,7 @@ Never edit an earlier entry: a correction is a new entry. In Notion, each change
 
 ## 7. Tell me what you wrote
 
-After each turn, say in a few lines what you wrote: which objects, which of them are `inferred`, and any question only I can answer. I review when I choose. Ask only when the answer changes what I want, one question at a time.
+After each turn, say in a few lines what you wrote: which objects, which of them are `inferred`, and any question only I can answer. I review when I choose. Ask only when the answer changes what I want, and group your questions in one message.
 
 ## From version 1 to version 2
 
